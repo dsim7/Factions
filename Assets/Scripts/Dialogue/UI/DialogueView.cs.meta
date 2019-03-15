@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 846fcf48d7c61554d8671210a37e6fd3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _conversation: {instanceID: 0}
+  - currentDialogue: {fileID: 11400000, guid: 539ff3d2552763745a1a4919e70e3c9b, type: 2}
+  - speakerName: {instanceID: 0}
+  - message: {instanceID: 0}
+  - image: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

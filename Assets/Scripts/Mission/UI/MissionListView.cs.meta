@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3141dd31d3ec5734c9b10f1c163546b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - missionCardPrefab: {fileID: 1620360530895150, guid: 209add51d7317e84995fcbe7d59abd84,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

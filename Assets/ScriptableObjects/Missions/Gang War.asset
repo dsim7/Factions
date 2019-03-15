@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e4578f78cd077542a42ac6519cea2a9, type: 3}
+  m_Name: Gang War
+  m_EditorClassIdentifier: 
+  saveGame: {fileID: 11400000, guid: 4fe13ffbff903b04aa23d573ca9d0cd1, type: 2}
+  title: Gang War
+  description: The local gangs are fighting one another over the area. There are valuable
+    resources there and we could get involved and secure the resources for ourselves.
+  introConversation: {fileID: 11400000, guid: f4bc926ac438e6d4bbaf0899847dbab7, type: 2}
+  successConversation: {fileID: 11400000, guid: 15c833c6f5685664c9d608cad06abf4b,
+    type: 2}
+  failConversation: {fileID: 11400000, guid: aadb0845caa42ad46820eff0466a51fa, type: 2}
+  stealthReq: 5
+  combatReq: 10
+  intellectReq: 0
+  charismaReq: 0
+  rewards:
+  - {fileID: 11400000, guid: f8503bb011105334190fef798b8ef5a8, type: 2}
+  - {fileID: 11400000, guid: 521a18189a960614886ddda7d1638d5f, type: 2}
+  - {fileID: 11400000, guid: 148198367e98e5d40af90f14e3fc6d8e, type: 2}
+  - {fileID: 11400000, guid: 02c17deb89343604c9d55f35eda2f326, type: 2}
+  - {fileID: 11400000, guid: ec113aa35983388419d17cea9ccc7714, type: 2}
+  - {fileID: 11400000, guid: 34a3c6159bb2ced44828c139381eeedf, type: 2}
+  - {fileID: 11400000, guid: 2eb3c0a0f879a5f49955eafbe6cf262f, type: 2}
+  - {fileID: 11400000, guid: 6040bee6e9a75e4429d359cfe072d3ca, type: 2}
+  - {fileID: 11400000, guid: da29b212ace34f049ae6b086f34ee304, type: 2}
+  - {fileID: 11400000, guid: e94e4f58bfbb12a479cc9e6c664820c4, type: 2}
+  - {fileID: 11400000, guid: 6b9375973e1699047bfcd125e76d8ae4, type: 2}
+  durationInSeconds: 120
+  status:
+    _value: 0
+  assignments:
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  startTime: 0
+  completeTime: 0
+  isSuccess: 0

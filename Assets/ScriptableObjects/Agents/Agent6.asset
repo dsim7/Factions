@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c80c0be6b4550d459b81dd874bdf7b0, type: 3}
+  m_Name: Agent6
+  m_EditorClassIdentifier: 
+  agentName: Howard DeVeal
+  description: Charismatic financial officer of the local megacorporation. He gets
+    what he wants, when he wants, usually by buying it.
+  image: {fileID: 21300000, guid: 9f5f172b90058ce4da4bf971f5fbfebc, type: 3}
+  status:
+    _value: 0
+  baseStealth: 2
+  baseCombat: 3
+  baseCharisma: 8
+  baseIntelligence: 6
+  traits:
+    _value:
+    - {fileID: 11400000, guid: 931a18ea8a3ba4a46a156a427405ddb0, type: 2}
+  inventory:
+    _value:
+    - _value:
+        template: {fileID: 0}
+      locked: 0
+    - _value:
+        template: {fileID: 0}
+      locked: 0
+    - _value:
+        template: {fileID: 0}
+      locked: 0

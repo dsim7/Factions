@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e4578f78cd077542a42ac6519cea2a9, type: 3}
+  m_Name: Party 2
+  m_EditorClassIdentifier: 
+  saveGame: {fileID: 11400000, guid: 4fe13ffbff903b04aa23d573ca9d0cd1, type: 2}
+  title: Party
+  description: A party is being held by the locals. We must take this opportunity
+    to investigate and learn more.
+  introConversation: {fileID: 11400000, guid: c33f850e14273384cbcc278d4fa64970, type: 2}
+  successConversation: {fileID: 11400000, guid: 637599910ff9d684384c74a667238629,
+    type: 2}
+  failConversation: {fileID: 11400000, guid: 4b6835e57698ac24da24848a276f2d84, type: 2}
+  stealthReq: 0
+  combatReq: 10
+  intellectReq: 0
+  charismaReq: 10
+  rewards:
+  - {fileID: 11400000, guid: 2d77ed5c43481ee42b633f85ed549eed, type: 2}
+  - {fileID: 11400000, guid: e1b65744e85c2ba4ea3bc7cbd5fd39b4, type: 2}
+  - {fileID: 11400000, guid: 34a3c6159bb2ced44828c139381eeedf, type: 2}
+  - {fileID: 11400000, guid: 82c476403f6757943ae649c1f2e0182a, type: 2}
+  - {fileID: 11400000, guid: ec113aa35983388419d17cea9ccc7714, type: 2}
+  - {fileID: 11400000, guid: 148198367e98e5d40af90f14e3fc6d8e, type: 2}
+  - {fileID: 11400000, guid: b417b85674b360e4c9cb809574e9b76d, type: 2}
+  - {fileID: 11400000, guid: 028498e716a200d41b0bf168b4f24025, type: 2}
+  - {fileID: 11400000, guid: c4c8cbcdbf6f37f47a8674e1921369c8, type: 2}
+  - {fileID: 11400000, guid: 970f42ee1a095ed4d9438a6b1cf6a42d, type: 2}
+  durationInSeconds: 300
+  status:
+    _value: 0
+  assignments:
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  startTime: 0
+  completeTime: 0
+  isSuccess: 0

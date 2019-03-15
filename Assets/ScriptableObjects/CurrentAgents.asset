@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5709c760f7a519e40806c4807224c27e, type: 3}
+  m_Name: CurrentAgents
+  m_EditorClassIdentifier: 
+  _value:
+  - {fileID: 11400000, guid: a21ea02e3e9a82844b75c09ce584250f, type: 2}
+  - {fileID: 11400000, guid: a8bbfffe258d6934ab1dd483c7827497, type: 2}
+  - {fileID: 11400000, guid: b7444e8dda234d943a53a4e513f61df4, type: 2}
+  - {fileID: 11400000, guid: 65b40629e9bbfcf4a861579c083aefa6, type: 2}
+  - {fileID: 11400000, guid: 6fc0e22d394cae740af8325559db1096, type: 2}
+  - {fileID: 11400000, guid: abb33d27aa45ab04ea745413f6d7650e, type: 2}
+  _onChange:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null

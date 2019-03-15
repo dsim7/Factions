@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c80c0be6b4550d459b81dd874bdf7b0, type: 3}
+  m_Name: Agent1
+  m_EditorClassIdentifier: 
+  agentName: Tenenbaum Lockhart
+  description: Devious and ruthless.
+  image: {fileID: 21300000, guid: 9f5f172b90058ce4da4bf971f5fbfebc, type: 3}
+  status:
+    _value: 0
+  baseStealth: 4
+  baseCombat: 5
+  baseCharisma: 5
+  baseIntelligence: 6
+  traits:
+    _value:
+    - {fileID: 11400000, guid: f433e34ff9ac32446b15b8216f427005, type: 2}
+  inventory:
+    _value:
+    - _value:
+        template: {fileID: 0}
+      locked: 0
+    - _value:
+        template: {fileID: 0}
+      locked: 0
+    - _value:
+        template: {fileID: 0}
+      locked: 0

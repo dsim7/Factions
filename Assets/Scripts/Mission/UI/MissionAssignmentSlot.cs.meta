@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 30fe54030832da842ad9136d8180fa72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectedMission: {instanceID: 0}
+  - draggedAgent: {instanceID: 0}
+  - agentImage: {instanceID: 0}
+  - agentName: {instanceID: 0}
+  - cancelButton: {instanceID: 0}
+  - defaultSprite: {fileID: 21300000, guid: bb5a517b288f3d0489f7b1f11a0a64a9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e4578f78cd077542a42ac6519cea2a9, type: 3}
+  m_Name: Assassination 1
+  m_EditorClassIdentifier: 
+  saveGame: {fileID: 11400000, guid: 4fe13ffbff903b04aa23d573ca9d0cd1, type: 2}
+  title: Assassination Target
+  description: An individual in the area has been causing problems for our enterprise
+    and must be taken out quietly.
+  introConversation: {fileID: 11400000, guid: 4202aa2f0ff5d26489a9b4e31711a05e, type: 2}
+  successConversation: {fileID: 11400000, guid: b6bbd2f1b2f58e0469712835108acdee,
+    type: 2}
+  failConversation: {fileID: 11400000, guid: 1992221ab616ef0499a0f3f14cc62260, type: 2}
+  stealthReq: 10
+  combatReq: 0
+  intellectReq: 10
+  charismaReq: 0
+  rewards:
+  - {fileID: 11400000, guid: 2eb3c0a0f879a5f49955eafbe6cf262f, type: 2}
+  - {fileID: 11400000, guid: 028498e716a200d41b0bf168b4f24025, type: 2}
+  - {fileID: 11400000, guid: 34a3c6159bb2ced44828c139381eeedf, type: 2}
+  - {fileID: 11400000, guid: e1b65744e85c2ba4ea3bc7cbd5fd39b4, type: 2}
+  - {fileID: 11400000, guid: da29b212ace34f049ae6b086f34ee304, type: 2}
+  - {fileID: 11400000, guid: e94e4f58bfbb12a479cc9e6c664820c4, type: 2}
+  - {fileID: 11400000, guid: af1e17fdc7827d44e86c7821e77fd661, type: 2}
+  - {fileID: 11400000, guid: ffc265d5d0c52df4fb24a75d3a20ff25, type: 2}
+  durationInSeconds: 120
+  status:
+    _value: 0
+  assignments:
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  startTime: 0
+  completeTime: 0
+  isSuccess: 0

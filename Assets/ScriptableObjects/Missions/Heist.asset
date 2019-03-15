@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e4578f78cd077542a42ac6519cea2a9, type: 3}
+  m_Name: Heist
+  m_EditorClassIdentifier: 
+  saveGame: {fileID: 11400000, guid: 4fe13ffbff903b04aa23d573ca9d0cd1, type: 2}
+  title: Heist
+  description: There is an asset in the area that we have to secure.
+  introConversation: {fileID: 11400000, guid: be693a1dba2afaf4f8f8280410c5ac26, type: 2}
+  successConversation: {fileID: 11400000, guid: af00333508167994b9aecec673e030e4,
+    type: 2}
+  failConversation: {fileID: 11400000, guid: d0f0b3b6f4952f54fb8a7e942b26b66e, type: 2}
+  stealthReq: 10
+  combatReq: 5
+  intellectReq: 5
+  charismaReq: 0
+  rewards:
+  - {fileID: 11400000, guid: ec113aa35983388419d17cea9ccc7714, type: 2}
+  - {fileID: 11400000, guid: 34a3c6159bb2ced44828c139381eeedf, type: 2}
+  - {fileID: 11400000, guid: 148198367e98e5d40af90f14e3fc6d8e, type: 2}
+  - {fileID: 11400000, guid: af1e17fdc7827d44e86c7821e77fd661, type: 2}
+  - {fileID: 11400000, guid: ffc265d5d0c52df4fb24a75d3a20ff25, type: 2}
+  - {fileID: 11400000, guid: 6b9375973e1699047bfcd125e76d8ae4, type: 2}
+  - {fileID: 11400000, guid: 970f42ee1a095ed4d9438a6b1cf6a42d, type: 2}
+  - {fileID: 11400000, guid: 89ccf0554a7befe40b20819a4af9b1b8, type: 2}
+  durationInSeconds: 60
+  status:
+    _value: 0
+  assignments:
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  - assignedAgent:
+      _value: {fileID: 0}
+    locked:
+      _value: 0
+  startTime: 0
+  completeTime: 0
+  isSuccess: 0
